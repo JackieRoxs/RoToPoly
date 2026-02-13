@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game version="1.4.151">
+<Item class="Tool">
+    <Properties>
+      <boolean name="Droppable">true</boolean>
+      <vector3 name="Position">
+        <X>-21.0000</X>
+        <Y>1.5000</Y>
+        <Z>40.5000</Z>
+      </vector3>
+      <vector3 name="Rotation">
+        <X>0.0000</X>
+        <Y>0.0000</Y>
+        <Z>0.0000</Z>
+      </vector3>
+      <vector3 name="LocalPosition">
+        <X>-21.0000</X>
+        <Y>1.5000</Y>
+        <Z>40.5000</Z>
+      </vector3>
+      <vector3 name="LocalRotation">
+        <X>0.0000</X>
+        <Y>0.0000</Y>
+        <Z>0.0000</Z>
+      </vector3>
+      <vector3 name="Size">
+        <X>1.0000</X>
+        <Y>1.0000</Y>
+        <Z>1.0000</Z>
+      </vector3>
+      <vector3 name="LocalSize">
+        <X>1.0000</X>
+        <Y>1.0000</Y>
+        <Z>1.0000</Z>
+      </vector3>
+      <string name="Name">Lesbian Sign</string>
+    </Properties>
+    <Item class="Model">
+      <Properties>
+        <vector3 name="Position">
+          <X>-21.0000</X>
+          <Y>2.5000</Y>
+          <Z>40.4950</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>180.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>0.0000</X>
+          <Y>1.0000</Y>
+          <Z>-0.0050</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>180.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>1.0000</X>
+          <Y>1.0000</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>1.0000</X>
+          <Y>1.0000</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Model</string>
+      </Properties>
+      <Item class="Text3D">
+        <Properties>
+          <string name="Text">Lesbians</string>
+          <color name="Color">
+            <R>0.0000</R>
+            <G>0.0000</G>
+            <B>0.0000</B>
+            <A>1.0000</A>
+          </color>
+          <float name="FontSize">36.0000</float>
+          <boolean name="FaceCamera">false</boolean>
+          <int name="HorizontalAlignment">2</int>
+          <int name="VerticalAlignment">512</int>
+          <int name="Font">2</int>
+          <vector3 name="Position">
+            <X>-21.0000</X>
+            <Y>3.2500</Y>
+            <Z>40.5500</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>180.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>0.0000</X>
+            <Y>0.7500</Y>
+            <Z>-0.0550</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>0.1000</X>
+            <Y>0.1000</Y>
+            <Z>0.1000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>0.1000</X>
+            <Y>0.1000</Y>
+            <Z>0.1000</Z>
+          </vector3>
+          <string name="Name">Text3D</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.6392</R>
+            <G>0.6353</G>
+            <B>0.6471</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">14</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.6000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>-21.0000</X>
+            <Y>3.0000</Y>
+            <Z>40.4900</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>180.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>0.0000</X>
+            <Y>0.5000</Y>
+            <Z>0.0050</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>2.0000</X>
+            <Y>1.5000</Y>
+            <Z>0.1000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>2.0000</X>
+            <Y>1.5000</Y>
+            <Z>0.1000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.3075</R>
+            <G>0.1626</G>
+            <B>0.0171</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">1</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.6000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>-21.0000</X>
+            <Y>2.0000</Y>
+            <Z>40.4900</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>180.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>0.0000</X>
+            <Y>-0.5000</Y>
+            <Z>0.0050</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>0.2000</X>
+            <Y>1.6000</Y>
+            <Z>0.0800</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>0.2000</X>
+            <Y>1.6000</Y>
+            <Z>0.0800</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.3075</R>
+            <G>0.1626</G>
+            <B>0.0171</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">1</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.6000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>-21.0000</X>
+            <Y>3.0000</Y>
+            <Z>40.4900</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>180.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>0.0000</X>
+            <Y>0.5000</Y>
+            <Z>0.0050</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>2.1000</X>
+            <Y>1.6000</Y>
+            <Z>0.0800</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>2.1000</X>
+            <Y>1.6000</Y>
+            <Z>0.0800</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+  </game>
